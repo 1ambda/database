@@ -1,4 +1,6 @@
-# MySQL University Schema
+# Database Note
+
+### Mysql
 
 Based on [Database System and Concepts 6ed](http://db-book.com/)
 
